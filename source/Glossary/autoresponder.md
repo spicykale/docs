@@ -20,4 +20,6 @@ An autoresponder is a computer program that generates a response to an email, re
 You can set up an autoresponder with SendGrid, by utilizing the [Inbound Parse Webhook]({{root_url}}/Classroom/Basics/Inbound_Parse_Webhook/setting_up_the_inbound_parse_webhook.html) and the [v3 Mail Send endpoint]({{root_url}}/API_Reference/Web_API_v3/Mail/index.html).
 {% endinfo %}
 
+Mavaca.com uses the Sendgrid Api to handle autoresponders from your dashboard without webhook or parsing.
+
 More information about autoresponders can be found [here](https://en.wikipedia.org/wiki/Autoresponder).
